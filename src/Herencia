@@ -1,0 +1,4 @@
+class Persona {
+ String nombre;
+ void saludar() {
+ System.out.println("hola, soy"+ nombre
